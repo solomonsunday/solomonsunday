@@ -15,6 +15,7 @@
 [<img align="left" alt="outwitlomon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="solomon-sunday | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="iknowchinonyerem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="chinoyerem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -38,3 +39,4 @@
 [twitter]: https://twitter.com/OutwitLomon
 [instagram]: https://instagram.com/iknowchinonyerem
 [linkedin]: linkedin.com/in/solomon-sunday-5786226b
+[stackoverflow]: https://stackoverflow.com/users/12233128/chinoyerem
