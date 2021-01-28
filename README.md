@@ -5,10 +5,10 @@
 ## I'm a Son, Brother, Developer, and Team Member!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🔭 Currently major on front-end and Backend
+- 🔭 Currently major on front-end and Backend , Cloud computing
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and Develop a Solution that solves real life Problem
-- ⚡ Fun fact: I love to Swim and play chess
+- ⚡ Fun fact: I love to Swim, Music and enjoy playing chess
 
 ### Connect with me:
 
