@@ -37,6 +37,5 @@
 <br />
 
 [twitter]: https://twitter.com/OutwitLomon
-[instagram]: https://instagram.com/iknowchinonyerem
 [linkedin]: linkedin.com/in/solomon-sunday-5786226b
 [stackoverflow]: https://stackoverflow.com/users/12233128/chinoyerem
