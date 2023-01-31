@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/OutwitLomon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%OutwitLomon&screen_name=OutwitLomon)
 
-## I'm a Son, Brother, Developer, and Team Member!!
+## A son, brother, developer, and team member.
 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 Currently major on front-end and Backend , Cloud computing
